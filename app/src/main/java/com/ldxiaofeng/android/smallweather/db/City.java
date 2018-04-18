@@ -1,6 +1,8 @@
 package com.ldxiaofeng.android.smallweather.db;
 
 
+import org.litepal.crud.DataSupport;
+
 /**
  * Created by 13178 on 2018-4-15.
  */
